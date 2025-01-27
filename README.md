@@ -1,39 +1,57 @@
-# 👋 Hi there! Welcome to my GitHub
+# 👋 Welcome to My GitHub!
 
-I'm **Venkat Venna**, a passionate **Java Full Stack Developer** with a knack for building robust and scalable web applications. With expertise in **Java**, **Spring Boot**, **JSP/Servlets**, and **Frontend Technologies**, I thrive on delivering solutions that combine functionality and elegance.
+![Welcome Banner](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
----
-
-## 🚀 About Me
-- 🌟 **Proficient in:** Java, Spring Boot, Hibernate, JSP, Servlets, RESTful APIs  
-- 💻 **Frontend Technologies:** HTML, CSS, JavaScript, React.js  
-- 🌐 **Cloud Platforms:** AWS (Elastic Beanstalk, S3), Streamlit Cloud  
-- 🖇️ **Other Skills:** SQL, Git, Docker, C programming for real-time systems  
-- 🎯 **Experienced in:** Building scalable Java enterprise applications and real-time systems
+I'm **Venkat Venna**, a **Java Full Stack Developer** passionate about crafting scalable, efficient, and user-friendly applications. From backend logic to frontend design, I bring projects to life with precision and creativity.
 
 ---
 
-## 🛠️ Featured Projects
-### [🚗 Uber Application Clone](https://github.com/vennavenkat/uberapplication)
-A full-stack web application replicating core functionalities of Uber.  
-**Tech Stack:** Java, Spring Boot, JSP/Servlets, MySQL  
-
-### [📝 AI Resume Analyzer](https://github.com/vennavenkat/AI-Resume-Analyzer)
-An AI-powered tool to analyze resumes and provide insights using NLP.  
-**Tech Stack:** Python, Streamlit, AWS Deployment  
+## 🌟 About Me
+- 💻 **Backend Mastery:** Java | Spring Boot | Hibernate | REST APIs | JSP/Servlets
+- 🌐 **Frontend Expertise:** HTML | CSS | JavaScript | React.js
+- ☁️ **Cloud Technologies:** AWS (Elastic Beanstalk, S3) | Streamlit Cloud
+- 🛠️ **Other Skills:** SQL | Git | Docker | Real-time Systems with C
+- 🎓 **Always Learning:** Exploring new technologies and trends in software development
 
 ---
 
-## 🌐 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/venkat-venna](https://linkedin.com/in/venkat-venna)  
-- 📫 **GitHub:** [github.com/vennavenkat](https://github.com/vennavenkat)  
+## 🚀 Featured Projects
+
+### 🚗 [Uber Application Clone](https://github.com/vennavenkat/uberapplication)
+![Uber Project Animation](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+- **Description:** A full-stack web application replicating core functionalities of Uber.
+- **Tech Stack:** Java, Spring Boot, JSP/Servlets, MySQL
+- **Features:** Ride Booking | Real-Time Driver Tracking | User Authentication
+
+---
+
+### 📝 [AI Resume Analyzer](https://github.com/vennavenkat/AI-Resume-Analyzer)
+![Resume Analyzer GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+- **Description:** An AI-powered tool for analyzing resumes and providing insights using NLP.
+- **Tech Stack:** Python, Streamlit, AWS Deployment
+- **Features:** Resume Parsing | Skill Analysis | Automated Feedback
 
 ---
 
 ## 📊 GitHub Stats
-![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vennavenkat&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vennavenkat&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vennavenkat&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 💡 Fun Fact:
-When I'm not coding, you'll find me exploring tech trends, solving algorithms, or brainstorming the next big idea!
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/venkat-venna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/vennavenkat"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+---
+
+## 🎯 Fun Fact:
+When I'm not coding, you can find me exploring the latest tech trends, solving algorithms, or brainstorming ideas for my next big project. 🚀
+
+---
+
+**✨ Thank you for visiting my profile! ✨**
